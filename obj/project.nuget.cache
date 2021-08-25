@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ru69CA2O/m6a43bpmk8sA09kBb/E46JNMeCpjwuHuCckPcnAN8UuameOKjWgQkFJVQcN0UlX1HUpJlVQKd/zA==",
+  "success": true,
+  "projectFilePath": "/Users/leticiasilva/Desktop/BitcoinRate/BitcoinRate.csproj",
+  "expectedPackageFiles": [
+    "/Users/leticiasilva/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
